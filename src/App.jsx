@@ -1,4 +1,4 @@
-const FORM_TTD_URL = "https://forms.gle/WZxC1tQrCorNyhR18";
+const FORM_TTD_URL = "https://forms.gle/2g1cJR8LT8DNehQJ9";
 
 const WHATSAPP_URL = "https://wa.me/6281312583005";
 const INSTAGRAM_URL =
