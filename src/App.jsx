@@ -202,7 +202,7 @@ function AnemiaInfo() {
   ];
 
   const symptoms = [
-    "5L: lemah, letih, lesu, lelah, lalai",
+    "5L: lemah, letih, lesu, lelah, lunglai",
     "Lebih emosional",
     "Pucat pada kulit, kelopak mata, bibir, lidah, telapak tangan, dan kuku",
     "Pandangan kunang-kunang dan pusing",
